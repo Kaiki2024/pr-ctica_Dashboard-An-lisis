@@ -2,6 +2,10 @@ El archivo utilizado es el siguiente: [Adidas US Sales Datasets.xlsx](https://gi
 
 El análisis se ha hecho con GoogleSheets: https://docs.google.com/spreadsheets/d/1MLguqi2DyTALhf9cErmfXi0QfOCFrDH0jcjH9ZsNAOc/edit?gid=2094923310#gid=2094923310
 
+OBJETIVO:
+
+Queremos saber si los hábitos de consumo de los productos Adidas en EEUU son estables o varían. Para ello contamos con los datos de venta de 2020 y 2021. Tengamos en cuenta que en 2020 se produjo una pandemia mundial que provocó cambios en los hábito de consumo. Queremos comprobar si dicha afirmación se cumple en este caso, así como conocer los principales mercados de Adidas dentro de los Estados Unidos.
+
 PASOS SEGUIDOS:
 
 1- Desunimos la columna de "Product" mediante la herramienta de "Datos" y "Dividir el texto en columnas"
@@ -53,6 +57,8 @@ INFORME:
 CONCLUSIONES:
 
 1- La venta Online gana terreno frente al resto de puntos de venta. Cambio claro de tendencia en los hábitos del consumidor a partir de 2021. Las ventas por Sports Direct suponen un mayor margen de beneficio y es la segunda fuente de ventas. Interesante convertirla en la primera fuente de la venta.
+
+![image](https://github.com/user-attachments/assets/aade36c3-a743-4486-a9c7-0686ec401109)
 
 2- Los productos más consumidos de la marca son las zapatillas (Footwear), algo que se mantiene año a año.
 
