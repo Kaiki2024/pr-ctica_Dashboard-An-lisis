@@ -58,14 +58,32 @@ CONCLUSIONES:
 
 1- La venta Online gana terreno frente al resto de puntos de venta. Cambio claro de tendencia en los hábitos del consumidor a partir de 2021. Las ventas por Sports Direct suponen un mayor margen de beneficio y es la segunda fuente de ventas. Interesante convertirla en la primera fuente de la venta.
 
+2020
+
+![image](https://github.com/user-attachments/assets/15a6da2e-10ce-47b6-b8af-65d42fd7662e)
+
+
+2021 
+
 ![image](https://github.com/user-attachments/assets/aade36c3-a743-4486-a9c7-0686ec401109)
 
 2- Los productos más consumidos de la marca son las zapatillas (Footwear), algo que se mantiene año a año.
 
+2020
+
+![image](https://github.com/user-attachments/assets/f75c1d64-fd9e-42d7-8101-3f40cb82aac4)
+
+2021
+
+![image](https://github.com/user-attachments/assets/d353aa84-bcf9-4bdb-8d22-ef0d3a9ef810)
+
 3- Respecto a la venta en tienda. Wallmart es el que menos clientes trae y el menos margen de beneficio tiene. Valorar si tiene interés seguir teniendo los productos disponibles en ese vendedor. 
+
+![image](https://github.com/user-attachments/assets/954782d2-b553-46cd-bcbe-107b389cb98b)
 
 4- En cuanto a la venta en Outlet, de nuevo Sports Direct es el vendedor que aporta un mayor margen de beneficio y, además, el principal vendedor por esta vía.
 
+![image](https://github.com/user-attachments/assets/010d9083-e07e-414c-8343-352d21965334)
 
 
 
