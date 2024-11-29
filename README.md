@@ -6,6 +6,9 @@ OBJETIVO:
 
 Queremos saber si los hábitos de consumo de los productos Adidas en EEUU son estables o varían. Para ello contamos con los datos de venta de 2020 y 2021. Tengamos en cuenta que en 2020 se produjo una pandemia mundial que provocó cambios en los hábito de consumo. Queremos comprobar si dicha afirmación se cumple en este caso, así como conocer los principales mercados de Adidas dentro de los Estados Unidos.
 
+![image](https://github.com/user-attachments/assets/04469289-9904-4faa-9e31-9c37d5e492b7)
+
+
 PASOS SEGUIDOS:
 
 1- Desunimos la columna de "Product" mediante la herramienta de "Datos" y "Dividir el texto en columnas"
