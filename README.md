@@ -83,6 +83,7 @@ CONCLUSIONES:
 
 4- En cuanto a la venta en Outlet, de nuevo Sports Direct es el vendedor que aporta un mayor margen de beneficio y, además, el principal vendedor por esta vía.
 
+![image](https://github.com/user-attachments/assets/a40ddd8b-ebce-4cca-814e-efdf31c995cd)
 ![image](https://github.com/user-attachments/assets/010d9083-e07e-414c-8343-352d21965334)
 
 
